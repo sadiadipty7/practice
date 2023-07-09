@@ -1,0 +1,25 @@
+header{
+    background-image: url('../images/banner/banner1.png');
+    width: 1600px;
+height: 809px;
+
+}
+
+.hi-dec{
+    display: flex;
+    color: var(--dark-01, #151414);
+text-align: right;
+font-family: Work Sans;
+font-size: 65px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.btn{
+    border-radius: 5px;
+background: #F15B22;
+border: none;
+width: 160px;
+height: 64px;
+flex-shrink: 0;
+}
